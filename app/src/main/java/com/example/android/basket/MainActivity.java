@@ -1,4 +1,4 @@
-package com.example.android.counter;
+package com.example.android.basket;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
